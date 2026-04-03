@@ -51,45 +51,47 @@ I enjoy building scalable applications and solving real-world problems through c
 
 ## 💻 Projects
 
-### 🚀 AI Market Campaign Automation Hub (campAIgn)</ins>  
+### 🚀 AI Market Campaign Automation Hub (campAIgn)
 Full-stack + ML system for customer segmentation and automated marketing using K-Means clustering.  
 **Tech:** React, Node.js, Express.js, MongoDB, Python, scikit-learn  
 🔗 [Repo](https://github.com/Harshit997/campAIgn)
 
 ---
 
-### 📧 Spam Mail Detector</ins>  
+### 📧 Spam Mail Detector 
 NLP-based classifier using TF-IDF vectorization and Logistic Regression (~96.7% accuracy on 5.5k+ messages).  
 **Tech:** Python, scikit-learn, TF-IDF, Logistic Regression  
 🔗 [Repo](https://github.com/Harshit997/spam-mail-detector)
 
 ---
 
-### 🤖 Diabetes Prediction</ins>  
+### 🤖 Diabetes Prediction
 Binary classification using SVM with feature scaling on medical dataset (~77% accuracy).  
 **Tech:** Python, scikit-learn, SVM, StandardScaler  
 🔗 [Repo](https://github.com/Harshit997/Diabetes-Prediction)
 
 ---
 
-### 🧩 Sudoku Solver</ins>  
+### 🧩 Sudoku Solver
 Backtracking-based solution using recursion with constraint validation for rows, columns, and subgrids.  
 **Tech:** Java, Recursion, Backtracking  
 🔗 [Repo](https://github.com/Harshit997/Sudoku-Solver)
 
 ---
 
-### 🔥 Insurance Price Prediction</ins>  
+### 🔥 Insurance Price Prediction
 Regression-based ML project for predicting insurance costs with basic preprocessing and model training.  
 **Tech:** Python, Pandas, NumPy, scikit-learn  
 🔗 [Repo](https://github.com/Harshit997/InsurancePricePrediction)
 
 ---
 
-### 🎮 Simon Says Game</ins>  
+### 🎮 Simon Says Game
 Interactive browser-based memory game with dynamic sequence generation and DOM-based gameplay.  
 **Tech:** HTML, CSS, JavaScript, DOM Manipulation  
-🌐 [Live](https://harshit997.github.io/Simon-says-game/) | 🔗 [Repo](https://github.com/Harshit997/Simon-says-game)
+🌐 [Live](https://harshit997.github.io/Simon-says-game/) 
+🔗 [Repo](https://github.com/Harshit997/Simon-says-game)
+
 ---
 
 ## 🧠 Coding Profiles
