@@ -51,19 +51,60 @@ I enjoy building scalable applications and solving real-world problems through c
 
 ## 💻 Projects
 
-- 🔥 AI Campaign Hub (campAIgn)  
-- 📧 Spam Mail Detector  
-- 🎮 Simon Says Game  
+### 🚀 AI Market Campaign Automation Hub (campAIgn)</ins>  
+Full-stack + ML system for customer segmentation and automated marketing using K-Means clustering.  
+**Tech:** React, Node.js, Express.js, MongoDB, Python, scikit-learn  
+🔗 [Repo](https://github.com/Harshit997/campAIgn)
 
+---
+
+### 📧 Spam Mail Detector</ins>  
+NLP-based classifier using TF-IDF vectorization and Logistic Regression (~96.7% accuracy on 5.5k+ messages).  
+**Tech:** Python, scikit-learn, TF-IDF, Logistic Regression  
+🔗 [Repo](https://github.com/Harshit997/spam-mail-detector)
+
+---
+
+### 🤖 Diabetes Prediction</ins>  
+Binary classification using SVM with feature scaling on medical dataset (~77% accuracy).  
+**Tech:** Python, scikit-learn, SVM, StandardScaler  
+🔗 [Repo](https://github.com/Harshit997/Diabetes-Prediction)
+
+---
+
+### 🧩 Sudoku Solver</ins>  
+Backtracking-based solution using recursion with constraint validation for rows, columns, and subgrids.  
+**Tech:** Java, Recursion, Backtracking  
+🔗 [Repo](https://github.com/Harshit997/Sudoku-Solver)
+
+---
+
+### 🔥 Insurance Price Prediction</ins>  
+Regression-based ML project for predicting insurance costs with basic preprocessing and model training.  
+**Tech:** Python, Pandas, NumPy, scikit-learn  
+🔗 [Repo](https://github.com/Harshit997/InsurancePricePrediction)
+
+---
+
+### 🎮 Simon Says Game</ins>  
+Interactive browser-based memory game with dynamic sequence generation and DOM-based gameplay.  
+**Tech:** HTML, CSS, JavaScript, DOM Manipulation  
+🌐 [Live](https://harshit997.github.io/Simon-says-game/) | 🔗 [Repo](https://github.com/Harshit997/Simon-says-game)
 ---
 
 ## 🧠 Coding Profiles
 
-| Platform | Profile |
-|----------|--------|
-| LeetCode | https://leetcode.com/your-username |
-| GitHub | https://github.com/Harshit997 |
-
+<p align="left">
+  <a href="https://leetcode.com/u/harshitagrawal5160/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
+  <a href="https://www.codechef.com/users/aloft_list_37">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/harshitagarwal004">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 🌐 Connect With Me
