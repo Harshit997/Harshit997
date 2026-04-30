@@ -98,8 +98,6 @@ Interactive browser-based memory game with dynamic sequence generation and DOM-b
 
 ---
 
----
-
 ## ⚡ Technical Skills
 
 ### 👨‍💻 Programming Languages
