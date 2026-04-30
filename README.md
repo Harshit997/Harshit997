@@ -36,7 +36,7 @@ Full-stack + ML system for customer segmentation and automated marketing using K
 
 End-to-end ML application with Streamlit for predicting heart disease risk using trained classification models.
 **Tech:** Python, scikit-learn, Streamlit, Pandas
-🌐 [Live](heartdiseaseprediction0004.streamlit.app)
+🌐 [Live](https://heartdiseaseprediction0004.streamlit.app)
 🔗 [Repo](https://github.com/Harshit997/HeartDiseasePrediction)
 
 ---
