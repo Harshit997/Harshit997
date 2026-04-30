@@ -25,45 +25,78 @@ I enjoy building scalable applications and solving real-world problems through c
 ## 💻 Projects
 
 ### 🚀 AI Market Campaign Automation Hub (campAIgn)
-Full-stack + ML system for customer segmentation and automated marketing using K-Means clustering.  
-**Tech:** React, Node.js, Express.js, MongoDB, Python, scikit-learn  
+
+Full-stack + ML system for customer segmentation and automated marketing using K-Means clustering.
+**Tech:** React, Node.js, Express.js, MongoDB, Python, scikit-learn
 🔗 [Repo](https://github.com/Harshit997/campAIgn)
 
 ---
 
-### 📧 Spam Mail Detector 
-NLP-based classifier using TF-IDF vectorization and Logistic Regression (~96.7% accuracy on 5.5k+ messages).  
-**Tech:** Python, scikit-learn, TF-IDF, Logistic Regression  
+### ❤️ Heart Disease Prediction
+
+End-to-end ML application with Streamlit for predicting heart disease risk using trained classification models.
+**Tech:** Python, scikit-learn, Streamlit, Pandas
+🌐 [Live](heartdiseaseprediction0004.streamlit.app)
+🔗 [Repo](https://github.com/Harshit997/HeartDiseasePrediction)
+
+---
+
+### 🚗 Car Price Prediction
+
+Regression model using Ford dataset with comparison of encoding techniques and evaluation using R² & Adjusted R².
+**Tech:** Python, Pandas, NumPy, scikit-learn
+🔗 [Repo](https://github.com/Harshit997/Car-Price-Prediction)
+
+---
+
+### 📧 Spam Mail Detector
+
+NLP-based classifier using TF-IDF vectorization and Logistic Regression (~96.7% accuracy on 5.5k+ messages).
+**Tech:** Python, scikit-learn, TF-IDF, Logistic Regression
 🔗 [Repo](https://github.com/Harshit997/spam-mail-detector)
 
 ---
 
 ### 🤖 Diabetes Prediction
-Binary classification using SVM with feature scaling on medical dataset (~77% accuracy).  
-**Tech:** Python, scikit-learn, SVM, StandardScaler  
+
+Binary classification using SVM with feature scaling on medical dataset (~77% accuracy).
+**Tech:** Python, scikit-learn, SVM, StandardScaler
 🔗 [Repo](https://github.com/Harshit997/Diabetes-Prediction)
 
 ---
 
-### 🧩 Sudoku Solver
-Backtracking-based solution using recursion with constraint validation for rows, columns, and subgrids.  
-**Tech:** Java, Recursion, Backtracking  
-🔗 [Repo](https://github.com/Harshit997/Sudoku-Solver)
-
----
-
 ### 🔥 Insurance Price Prediction
-Regression-based ML project for predicting insurance costs with basic preprocessing and model training.  
-**Tech:** Python, Pandas, NumPy, scikit-learn  
+
+Regression-based ML project for predicting insurance costs with basic preprocessing and model training.
+**Tech:** Python, Pandas, NumPy, scikit-learn
 🔗 [Repo](https://github.com/Harshit997/InsurancePricePrediction)
 
 ---
 
+### 🚢 Titanic Survival Prediction
+
+Classification model predicting passenger survival using preprocessing, feature encoding, and Logistic Regression.
+**Tech:** Python, Pandas, NumPy, scikit-learn
+🔗 [Repo](https://github.com/Harshit997/Titanic-Survival-Prediction)
+
+---
+
+### 🧩 Sudoku Solver
+
+Backtracking-based solution using recursion with constraint validation for rows, columns, and subgrids.
+**Tech:** Java, Recursion, Backtracking
+🔗 [Repo](https://github.com/Harshit997/Sudoku-Solver)
+
+---
+
 ### 🎮 Simon Says Game
-Interactive browser-based memory game with dynamic sequence generation and DOM-based gameplay.  
-**Tech:** HTML, CSS, JavaScript, DOM Manipulation  
-🌐 [Live](https://harshit997.github.io/Simon-says-game/) 
+
+Interactive browser-based memory game with dynamic sequence generation and DOM-based gameplay.
+**Tech:** HTML, CSS, JavaScript, DOM Manipulation
+🌐 [Live](https://harshit997.github.io/Simon-says-game/)
 🔗 [Repo](https://github.com/Harshit997/Simon-says-game)
+
+---
 
 ---
 
