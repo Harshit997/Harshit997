@@ -57,6 +57,15 @@ NLP-based classifier using TF-IDF vectorization and Logistic Regression (~96.7% 
 
 ---
 
+### 😊 Sentiment Classification from Text
+
+NLP-based multi-class emotion classifier detecting 6 emotions (joy, sadness, anger, fear, love, surprise) from text using TF-IDF and Logistic Regression (~90% accuracy).
+**Tech:** Python, scikit-learn, NLTK, TF-IDF, Streamlit
+🌐 [Live](https://sentiment-classification-004.streamlit.app)
+🔗 [Repo](https://github.com/Harshit997/Sentiment-Classification)
+
+---
+
 ### 🤖 Diabetes Prediction
 
 Binary classification using SVM with feature scaling on medical dataset (~77% accuracy).
