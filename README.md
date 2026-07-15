@@ -14,6 +14,12 @@ I enjoy building scalable applications and solving real-world problems through c
 
 ---
 
+## 📊 Contribution Graph
+
+![](https://ghchart.rshah.org/00ff00/Harshit997)
+
+---
+
 ## 🎓 Education
 
 | Institution | Degree | Performance | Duration |
@@ -156,11 +162,6 @@ Interactive browser-based memory game with dynamic sequence generation and DOM-b
 
 ---
 
-## 📊 Contribution Graph
-
-![](https://ghchart.rshah.org/00ff00/Harshit997)
-
----
 
 ## 📊 GitHub Stats
 
