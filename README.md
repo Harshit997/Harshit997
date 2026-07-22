@@ -7,10 +7,10 @@ I am an ECE undergraduate at **Jalpaiguri Government Engineering College** with 
 
 I enjoy building scalable applications and solving real-world problems through code.  
 
-- 🔭 Currently working on ML & full-stack projects  
-- 🌱 Learning advanced Machine Learning  
+- 🔭 Currently working on ML/DL & full-stack projects  
+- 🌱 Learning advanced Machine Learning and Deep Learning Architectures  
 - 💡 Strong interest in problem-solving  
-- ⚡ Solved 180+ DSA problems on LeetCode  
+- ⚡ Solved 250+ DSA problems on LeetCode  
 
 ---
 
@@ -30,11 +30,36 @@ I enjoy building scalable applications and solving real-world problems through c
 
 ## 💻 Projects
 
+### ☀️ HelioSense
+
+Deep learning framework for solar flare nowcasting and forecasting using ISRO Aditya-L1 (SoLEXS/HEL1OS) and NASA GOES X-ray observations.
+**Tech:** Python, PyTorch, Pandas, NumPy, Astropy, PatchTST, 1D CNN
+🔗 [Repo](https://github.com/GroupDevProjects/HelioSense).
+
+---
+
 ### 🚀 AI Market Campaign Automation Hub (campAIgn)
 
 Full-stack + ML system for customer segmentation and automated marketing using K-Means clustering.
 **Tech:** React, Node.js, Express.js, MongoDB, Python, scikit-learn
-🔗 [Repo](https://github.com/Harshit997/campAIgn)
+🔗 [Repo](https://github.com/GroupDevProjects/campAIgn)
+
+---
+
+### 😊 Sentiment Classification from Text
+
+NLP-based multi-class emotion classifier detecting 6 emotions (joy, sadness, anger, fear, love, surprise) from text using TF-IDF and Logistic Regression (~90% accuracy).
+**Tech:** Python, scikit-learn, NLTK, TF-IDF, Streamlit
+🌐 [Live](https://sentiment-classification-004.streamlit.app)
+🔗 [Repo](https://github.com/Harshit997/Sentiment-Classification)
+
+---
+
+### 🌐 Distributed Edge Computing Optimization Simulator
+
+High-performance MEC simulator implementing PSO, DE, and Hybrid PSO+DE algorithms to optimize large-scale task offloading and resource allocation.  
+**Tech:** Python, NumPy, OOP, PSO, Differential Evolution (DE)
+🔗 [Repo](https://github.com/Harshit997/Distributed-Edge-Computing-Optimization-Simulator).
 
 ---
 
@@ -60,15 +85,6 @@ Regression model using Ford dataset with comparison of encoding techniques and e
 NLP-based classifier using TF-IDF vectorization and Logistic Regression (~96.7% accuracy on 5.5k+ messages).
 **Tech:** Python, scikit-learn, TF-IDF, Logistic Regression
 🔗 [Repo](https://github.com/Harshit997/spam-mail-detector)
-
----
-
-### 😊 Sentiment Classification from Text
-
-NLP-based multi-class emotion classifier detecting 6 emotions (joy, sadness, anger, fear, love, surprise) from text using TF-IDF and Logistic Regression (~90% accuracy).
-**Tech:** Python, scikit-learn, NLTK, TF-IDF, Streamlit
-🌐 [Live](https://sentiment-classification-004.streamlit.app)
-🔗 [Repo](https://github.com/Harshit997/Sentiment-Classification)
 
 ---
 
